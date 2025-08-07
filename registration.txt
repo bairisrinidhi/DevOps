@@ -1,0 +1,9 @@
+registration from
+
+-->there are name ,email,gender ,phone no,event,comments and registration felids in the registration from.
+name==>text
+email==>email
+phone==>tel
+event==>select commnd
+comments==>text area
+redister ==>button
